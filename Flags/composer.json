@@ -1,0 +1,19 @@
+{
+    "name": "fabrizio/flags",
+    "description": "Flags (htl3r)",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "y4cha",
+            "email": "yachafab@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "WSF\\Flags\\" : "src/WSF/Flags" }
+    },
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/Weissheiten/Flags" },
+    ],
+    "require": {}
+}
